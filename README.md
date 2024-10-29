@@ -1,5 +1,8 @@
 # neural-interface-ml-pipeline
 
+## Download dataset and save to `data/`
+https://mindbigdata.com/opendb/index.html
+
 ## Create venv
 `python -m venv eeg_env`
 

@@ -63,7 +63,6 @@ features = extract_csp_features(epochs_corrected, labels_binary, n_components=4)
 features_augmented = add_gaussian_noise(features, noise_level=0.02)
 
 # Time shift augmentation
-
 epochs_shifted = time_shift_epochs(epochs_corrected, shift_seconds=0.05, sfreq=raw.info['sfreq'])
 
 # Extract features from shifted epochs if needed
