@@ -1,3 +1,13 @@
 # neural-interface-ml-pipeline
 
-Draft implementation. Has not been run or tested.
+## Create venv
+`python -m venv eeg_env`
+
+## Activate venv
+`source eeg_env/bin/activate`
+
+## Install requirements
+`pip install -r requirements.txt`
+
+## Status
+Notebook runs successfully. However, the outputs have not been fully validated.
