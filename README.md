@@ -1,6 +1,6 @@
 # neural-interface-ml-pipeline
 
-### Download git lfs if not already installed
+### Download `git lfs` if not already installed
 https://git-lfs.com/
 
 ### Create venv
