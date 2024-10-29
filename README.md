@@ -1,16 +1,16 @@
 # neural-interface-ml-pipeline
 
-## Download git lfs if not already installed
+### Download git lfs if not already installed
 https://git-lfs.com/
 
-## Create venv
+### Create venv
 `python -m venv eeg_env`
 
-## Activate venv
+### Activate venv
 `source eeg_env/bin/activate`
 
-## Install requirements
+### Install requirements
 `pip install -r requirements.txt`
 
-## Status
+### Status
 Notebook runs successfully. However, the outputs have not been fully validated.
