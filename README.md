@@ -14,3 +14,6 @@ https://git-lfs.com/
 
 ### Status
 Notebook runs successfully. However, the outputs have not been fully validated.
+
+### Datasets
+https://mindbigdata.com/opendb/index.html
